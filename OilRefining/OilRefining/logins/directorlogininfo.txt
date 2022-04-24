@@ -1,3 +1,0 @@
-
-ID:9910
-password:direct

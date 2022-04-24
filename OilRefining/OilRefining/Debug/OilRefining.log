@@ -1,7 +1,0 @@
-﻿  Source.cpp
-c:\users\ali\documents\visual studio 2015\projects\oilrefining\oilrefining\source.cpp(935): warning C4715: 'planttoindex': not all control paths return a value
-c:\users\ali\documents\visual studio 2015\projects\oilrefining\oilrefining\source.cpp(987): warning C4715: 'duplicatechecker': not all control paths return a value
-c:\users\ali\documents\visual studio 2015\projects\oilrefining\oilrefining\source.cpp(1141): warning C4715: 'plantchecker': not all control paths return a value
-c:\users\ali\documents\visual studio 2015\projects\oilrefining\oilrefining\source.cpp(1487): warning C4715: 'getday': not all control paths return a value
-  OilRefining.vcxproj -> C:\Users\ALI\Documents\Visual Studio 2015\Projects\OilRefining\Debug\OilRefining.exe
-  OilRefining.vcxproj -> C:\Users\ALI\Documents\Visual Studio 2015\Projects\OilRefining\Debug\OilRefining.pdb (Partial PDB)

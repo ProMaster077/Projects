@@ -1,5 +1,0 @@
-employee info
-ID:5520
-password:123456
-ID:5521
-password:1234567
