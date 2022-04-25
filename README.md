@@ -22,3 +22,12 @@ Using database instead of text file: At the time of development due to lack of k
 Extra code: There is some extra code that is not nessessary and can be removed.
 
 ->**Which piece of code did you find most chellanging to write and how did you overcome this? What tools or resources are you adding to your support network**
+
+Most chellanging parts were implementing employee attendance and salary calculation. Since file handling was being used so it was alot harder to edit data in it. Salary needed to be calculated based on working days. To solve this problem credit hour system was implemented. When attendance of an employee was marked then credit hours for that day would be set to 9 while on absent it would be set to 0. Salary was calculated be adding all the working hours in a month and multiplied by rate per hour.
+
+->**What courses from this project will be particularly tranferable to other projects or course work?**
+
+File handling is the core of this project. It is a pretty useful skill and can be used in many cases.
+
+->**How did you make this program readable, maintainable and adaptable?**
+To maintain readability the code is seperated into cpp and header file. Comments are added to prototypes reminding its functionality.
